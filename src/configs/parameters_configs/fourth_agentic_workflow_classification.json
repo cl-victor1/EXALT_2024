@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../outputs/evaluation/Emotion/agentic_workflow_third.tsv",
+    "model_2_output": "../outputs/evaluation/Emotion_ensemble/8_models_unweighted.tsv"
+}

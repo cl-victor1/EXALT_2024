@@ -1,0 +1,3 @@
+{
+    "training_data_filename": "../data/exalt_emotion_train_{embedding_model}.tsv.zip"
+}

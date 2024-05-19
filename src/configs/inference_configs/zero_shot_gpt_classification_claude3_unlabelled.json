@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_emotion_dev_participants.tsv",
+    "output_filename": "../outputs/D3/ZeroShotGPT/ZeroShotGPT_claude3_unlabelled.tsv"
+}

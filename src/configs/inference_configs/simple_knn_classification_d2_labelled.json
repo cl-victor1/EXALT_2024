@@ -1,0 +1,4 @@
+{
+    "labelled_test_data_filename": "../data/exalt_emotion_dev_split_large_embeddings_256.tsv.zip",
+    "labelled_output_filename": "../outputs/D2/D2_Outputs/large_embeddings_256_knn_6_labelled.tsv"
+}

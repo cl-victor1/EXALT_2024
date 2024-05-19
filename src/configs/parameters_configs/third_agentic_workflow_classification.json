@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../outputs/evaluation/Emotion/ExplainZeroShotGPT_gpt4o_corrected_by_claude3_corrected.tsv",
+    "model_2_output": "../outputs/evaluation/Emotion_ensemble/9_models_unweighted.tsv"
+}

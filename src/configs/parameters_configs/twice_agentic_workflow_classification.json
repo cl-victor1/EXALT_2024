@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../outputs/evaluation/Emotion/agentic_workflow_once.tsv",
+    "model_2_output": "../outputs/evaluation/Emotion/ExplainZeroShotGPT_gpt4_corrected_by_claude3_corrected_submit.tsv"
+}

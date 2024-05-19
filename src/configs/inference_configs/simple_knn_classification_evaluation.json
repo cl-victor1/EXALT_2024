@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_emotion_test_{embedding_model}.tsv.zip",
+    "output_filename": "../outputs/evaluation/Emotion/SimpleKNN_{embedding_model}_knn_{n_neighbors}.tsv"
+}

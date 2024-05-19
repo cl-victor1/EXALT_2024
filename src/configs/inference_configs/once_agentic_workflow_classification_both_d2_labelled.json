@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_emotion_dev_split.tsv",
+    "output_filename": "../outputs/D2/D2_Outputs/agentic_workflow_both_d2_labelled.tsv"
+}

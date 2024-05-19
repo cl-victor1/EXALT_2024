@@ -1,0 +1,10 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4-0125-preview",
+    "prompts": {
+        "iteration_system_prompt": "You specialize in identifying emotions expressed in tweets. Given a tweet, you are expected to provide a single label representing its emotion from the set ['Love', 'Joy', 'Anger', 'Fear', 'Sadness', 'Neutral']. Please do not output anything else.",
+        "choose_system_prompt": "You specialize in analyzing tweets to determine the predominant emotion expressed. Given a tweet, select the most appropriate emotion from a predefined set of {emotions}. No additional output is permitted.",
+        "user_prompt_template": "{tweet}"        
+    },
+    "num_iteration": 10
+}

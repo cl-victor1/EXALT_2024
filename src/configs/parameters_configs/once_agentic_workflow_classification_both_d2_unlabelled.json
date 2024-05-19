@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../outputs/D2/FineTuneGPT/classification/fine_tune_both.tsv",
+    "model_2_output": "../experiment/Emotion.tsv"
+}

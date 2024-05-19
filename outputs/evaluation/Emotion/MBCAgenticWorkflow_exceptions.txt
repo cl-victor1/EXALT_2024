@@ -1,0 +1,16 @@
+175	Confusion
+458	Confusion
+
+505	Irony
+
+3315	Encouragement
+
+1004	Pride
+
+3405	Hope
+
+3328	Uncertainty
+
+11886	"Confusion or uncertainty might be present in the tweet due to the phrasing ""Ok where am I . ."", suggesting a mild sense of being lost or puzzled. However, as my options are limited to specific emotions and there's an inclination to suggest 'Neutral' unless a strong emotion is present, I would classify this as:
+
+Neutral"

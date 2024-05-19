@@ -1,0 +1,10 @@
+{
+    "task_type": "classification",
+    "model_name": "gpt-4-turbo-2024-04-09",
+    "prompts": {
+        "system_prompt": "You are an expert in checking emotion in tweets. There are six emotions: 'Love, Joy, Anger, Fear, Sadness, Neutral'. You will be presented with a tweet that others think is '{emotion1}', '{emotion2}', '{emotion3}', '{emotion4}', '{emotion5}' or '{emotion6}'. Output the emotion label that you agree with; otherwise, output one emotion label from other emotions that describes the emotion of the tweet the best. Your output should start with the explanation and end with the emotion label. Explanation and emotion label should be separated by ||. Do not output newlines.",
+        "user_prompt_template": "What is the emotion label of this tweet: '{tweet}'"
+    },
+    "clean": false,
+    "translate": false
+}

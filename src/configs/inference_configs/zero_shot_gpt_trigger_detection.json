@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_triggers_dev_participants.tsv",
+    "output_filename": "../experiment/zero_shot_trigger_detection/BinaryTriggers.tsv"
+}

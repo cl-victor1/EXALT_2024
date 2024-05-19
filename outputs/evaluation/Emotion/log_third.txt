@@ -1,0 +1,17 @@
+126 'Fear
+410 'Ang
+793 'Fear
+857 'Sad
+1088 'Ang
+1155 The emotion
+1292 'Love
+1461 'Joy
+1470 'Neutral
+1492 'Joy
+1553 'Ang
+1814 The emotion
+1834 The emotion
+1882 The emotion
+2044 'Joy
+2443 'Neutral
+2458 'Joy

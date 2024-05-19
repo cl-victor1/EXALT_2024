@@ -1,0 +1,5 @@
+{
+    "test_data_filename": "../data/exalt_emotion_dev_participants_processed.tsv",
+    "output_filename": "../outputs/D3/D3_Outputs/GPT4_ensemble_agentic_workflow.tsv",
+    "raw_filename": "../outputs/D3/D3_Outputs/GPT4_ensemble_agentic_workflow_raw.tsv"
+}

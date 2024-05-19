@@ -1,0 +1,12 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4-turbo-2024-04-09",
+    "anthropic_model_name": "claude-3-opus-20240229",
+    "num_shot": 0,
+    "prompts": {
+        "init_system_prompt": "You are an expert who takes an input tweet and outputs an emotion classification label among the following emotion labels: Love, Joy, Anger, Fear, Sadness, Neutral. Your output should start with the explanation and end with the emotion label. Explanation and emotion label should be separated by ||. Do not output newlines.",
+        "dc_system_prompt": "You are an expert in checking emotion in tweets. You will be presented with a tweet that others think is 'Neutral'. Output 'Neutral' if you agree with that; otherwise, output one emotion label from 'Love, Joy, Anger, Fear, Sadness' that describes the emotion of the tweet the best. Your output should start with the explanation and end with the emotion label. Explanation and emotion should be separated by ||. Do not output newlines.",
+        "dc_all_system_prompt": "You are an expert in checking emotion in tweets. There are six emotions 'Love, Joy, Anger, Fear, Sadness, Neutral'. You will be presented with a tweet that others think is '{emotion}'. Output '{emotion}' if you agree with that; otherwise, output one emotion label from other emotions that describes the emotion of the tweet the best. Your output should start with the explanation and end with the emotion label. Explanation and emotion should be separated by ||. Do not output newlines.",
+        "user_prompt_template": "What is the emotion label of this tweet '{tweet}'?"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4o",
+    "prompts": {
+        "system_prompt": "As an expert specialized in tweet classification, you're presented with a tweet and two emotion labels: '{emotion1}' and '{emotion2}'. Drawing upon your intuitive understanding, assess the emotion of the tweet provided. Your response should be either '{emotion1}' or '{emotion2}'. If the two emotion labels are identical, return either one of them.",
+        "user_prompt_template": "What is the emotion label of this tweet: '{tweet}'"
+    },
+    "clean": false,
+    "translate": false
+}

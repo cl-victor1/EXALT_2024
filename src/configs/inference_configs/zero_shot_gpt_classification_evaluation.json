@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_test_participants/exalt_emotion_test_participants.tsv",
+    "output_filename": "../outputs/evaluation/Emotion/ZeroShotGPT_gpt4.tsv"
+}

@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../outputs/D2/D2_Outputs/zero_shot_gpt_classification_d2_labelled.tsv",
+    "model_2_output": "../outputs/D2/D2_Outputs/agentic_workflow_both_d2_labelled.tsv"
+}

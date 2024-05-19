@@ -1,0 +1,7 @@
+{
+  "test_data_filename": "../data/exalt_emotion_dev_participants.tsv", 
+  "output_filename": "../outputs/D2/NaiveBayes/classification/naivebayes_no_add.tsv",
+  "output_filename_m1": "../outputs/D2/NaiveBayes/classification/naivebayes_m1.tsv",
+  "output_filename_m12": "../outputs/D2/NaiveBayes/classification/naivebayes_m12.tsv",
+  "output_filename_ratio": "../outputs/D2/NaiveBayes/classification/naivebayes_ratio.tsv"
+}

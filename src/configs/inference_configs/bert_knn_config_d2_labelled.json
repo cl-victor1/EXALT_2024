@@ -1,0 +1,8 @@
+{
+  "data": {
+    "data_path": "../data/"
+  },
+  "knnTest": {
+    "prediction_results": "../outputs/D2/D2_Outputs/BERTKNN_dev_results_d2_labeled.tsv"
+  }
+}

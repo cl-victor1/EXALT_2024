@@ -1,0 +1,5 @@
+{
+    "task_type": "classification",
+    "embedding_model": "embeddings_256",
+    "n_neighbors": 9
+}

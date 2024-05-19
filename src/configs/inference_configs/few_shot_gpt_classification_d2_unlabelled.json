@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_emotion_dev_large_embeddings_256.tsv.zip",
+    "output_filename": "../outputs/D2/D2_Outputs/few_shot_gpt_classification_d2_unlabelled.tsv"
+}

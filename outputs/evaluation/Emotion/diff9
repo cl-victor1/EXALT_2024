@@ -1,0 +1,510 @@
+17c17
+< 12041	Joy
+---
+> 12041	Neutral
+49c49
+< 10067	Joy
+---
+> 10067	Neutral
+76c76
+< 12824	Fear
+---
+> 12824	Sadness
+85c85
+< 12806	Neutral
+---
+> 12806	Fear
+117c117
+< 10246	Joy
+---
+> 10246	Neutral
+221c221
+< 10579	Joy
+---
+> 10579	Neutral
+257c257
+< 761	Neutral
+---
+> 761	Sadness
+272c272
+< 828	Joy
+---
+> 828	Love
+278c278
+< 1045	Anger
+---
+> 1045	Neutral
+282c282
+< 727	Fear
+---
+> 727	Neutral
+290c290
+< 409	Joy
+---
+> 409	Neutral
+337c337
+< 203	Anger
+---
+> 203	Neutral
+340c340
+< 505	Anger
+---
+> 505	Neutral
+367c367
+< 240	Fear
+---
+> 240	Anger
+401c401
+< 676	Sadness
+---
+> 676	Fear
+424,425c424,425
+< 1019	Anger
+< 678	Sadness
+---
+> 1019	Fear
+> 678	Anger
+439c439
+< 725	Anger
+---
+> 725	Neutral
+522c522
+< 1150	Joy
+---
+> 1150	Neutral
+538c538
+< 1303	Neutral
+---
+> 1303	Sadness
+549c549
+< 802	Sadness
+---
+> 802	Fear
+552c552
+< 429	Joy
+---
+> 429	Anger
+586c586
+< 275	Sadness
+---
+> 275	Neutral
+639c639
+< 57	Neutral
+---
+> 57	Fear
+650c650
+< 572	Sadness
+---
+> 572	Anger
+673c673
+< 1224	Joy
+---
+> 1224	Neutral
+684c684
+< 836	Neutral
+---
+> 836	Sadness
+687c687
+< 933	Joy
+---
+> 933	Neutral
+694c694
+< 858	Joy
+---
+> 858	Love
+727c727
+< 3126	Sadness
+---
+> 3126	Anger
+730c730
+< 3196	Neutral
+---
+> 3196	Fear
+756c756
+< 1723	Joy
+---
+> 1723	Neutral
+762c762
+< 3256	Neutral
+---
+> 3256	Joy
+796c796
+< 2315	Sadness
+---
+> 2315	Fear
+810c810
+< 1773	Anger
+---
+> 1773	Neutral
+816c816
+< 1637	Neutral
+---
+> 1637	Fear
+859c859
+< 1755	Anger
+---
+> 1755	Sadness
+861c861
+< 3233	Anger
+---
+> 3233	Neutral
+867c867
+< 2097	Joy
+---
+> 2097	Neutral
+879c879
+< 1725	Joy
+---
+> 1725	Anger
+882c882
+< 1911	Anger
+---
+> 1911	Neutral
+885c885
+< 3255	Love
+---
+> 3255	Joy
+896c896
+< 1697	Sadness
+---
+> 1697	Neutral
+913c913
+< 1915	Joy
+---
+> 1915	Love
+948c948
+< 2621	Anger
+---
+> 2621	Neutral
+962c962
+< 2410	Joy
+---
+> 2410	Anger
+1031c1031
+< 1649	Joy
+---
+> 1649	Anger
+1053,1054c1053,1054
+< 1858	Anger
+< 2775	Joy
+---
+> 1858	Neutral
+> 2775	Neutral
+1070c1070
+< 1888	Joy
+---
+> 1888	Neutral
+1081c1081
+< 1523	Joy
+---
+> 1523	Neutral
+1093c1093
+< 1963	Anger
+---
+> 1963	Sadness
+1101c1101
+< 2142	Neutral
+---
+> 2142	Fear
+1109c1109
+< 2364	Anger
+---
+> 2364	Neutral
+1149c1149
+< 2463	Anger
+---
+> 2463	Fear
+1157c1157
+< 1328	Joy
+---
+> 1328	Neutral
+1174c1174
+< 2031	Anger
+---
+> 2031	Neutral
+1186c1186
+< 1522	Joy
+---
+> 1522	Neutral
+1225c1225
+< 3706	Anger
+---
+> 3706	Fear
+1237c1237
+< 3637	Joy
+---
+> 3637	Neutral
+1282c1282
+< 3604	Anger
+---
+> 3604	Neutral
+1288c1288
+< 3668	Joy
+---
+> 3668	Neutral
+1294c1294
+< 3887	Love
+---
+> 3887	Joy
+1299c1299
+< 3429	Joy
+---
+> 3429	Neutral
+1355c1355
+< 3919	Anger
+---
+> 3919	Sadness
+1382,1383c1382,1383
+< 3361	Joy
+< 3516	Fear
+---
+> 3361	Neutral
+> 3516	Sadness
+1433c1433
+< 3701	Sadness
+---
+> 3701	Neutral
+1442c1442
+< 3763	Neutral
+---
+> 3763	Anger
+1455c1455
+< 3725	Anger
+---
+> 3725	Neutral
+1465c1465
+< 3837	Neutral
+---
+> 3837	Fear
+1468c1468
+< 3590	Joy
+---
+> 3590	Love
+1472c1472
+< 3658	Neutral
+---
+> 3658	Anger
+1483c1483
+< 3849	Love
+---
+> 3849	Joy
+1494c1494
+< 3716	Love
+---
+> 3716	Joy
+1599,1600c1599,1600
+< 3931	Anger
+< 3690	Neutral
+---
+> 3931	Sadness
+> 3690	Fear
+1604c1604
+< 3891	Joy
+---
+> 3891	Neutral
+1628c1628
+< 3838	Neutral
+---
+> 3838	Anger
+1649c1649
+< 3854	Neutral
+---
+> 3854	Sadness
+1681c1681
+< 6101	Joy
+---
+> 6101	Neutral
+1692c1692
+< 4508	Joy
+---
+> 4508	Neutral
+1717c1717
+< 4174	Joy
+---
+> 4174	Neutral
+1742c1742
+< 5878	Sadness
+---
+> 5878	Fear
+1747c1747
+< 5061	Neutral
+---
+> 5061	Fear
+1753c1753
+< 6419	Anger
+---
+> 6419	Neutral
+1770c1770
+< 5937	Joy
+---
+> 5937	Neutral
+1774c1774
+< 5956	Joy
+---
+> 5956	Sadness
+1803c1803
+< 6151	Joy
+---
+> 6151	Neutral
+1844c1844
+< 5781	Joy
+---
+> 5781	Neutral
+1859c1859
+< 4275	Neutral
+---
+> 4275	Joy
+1864c1864
+< 5758	Sadness
+---
+> 5758	Anger
+1881c1881
+< 5465	Joy
+---
+> 5465	Neutral
+1948c1948
+< 6382	Neutral
+---
+> 6382	Anger
+1962c1962
+< 6262	Joy
+---
+> 6262	Neutral
+1983c1983
+< 5858	Neutral
+---
+> 5858	Love
+2000c2000
+< 5227	Joy
+---
+> 5227	Neutral
+2015c2015
+< 6444	Sadness
+---
+> 6444	Neutral
+2034c2034
+< 4831	Joy
+---
+> 4831	Neutral
+2043c2043
+< 5554	Joy
+---
+> 5554	Sadness
+2050c2050
+< 6191	Joy
+---
+> 6191	Sadness
+2054c2054
+< 5088	Anger
+---
+> 5088	Sadness
+2075c2075
+< 5071	Joy
+---
+> 5071	Neutral
+2083c2083
+< 5700	Joy
+---
+> 5700	Neutral
+2088c2088
+< 4177	Anger
+---
+> 4177	Neutral
+2108c2108
+< 4991	Joy
+---
+> 4991	Neutral
+2131c2131
+< 6247	Joy
+---
+> 6247	Anger
+2136c2136
+< 4746	Anger
+---
+> 4746	Neutral
+2140c2140
+< 5785	Sadness
+---
+> 5785	Fear
+2146c2146
+< 4319	Anger
+---
+> 4319	Fear
+2156c2156
+< 744	Neutral
+---
+> 744	Joy
+2199c2199
+< 3717	Sadness
+---
+> 3717	Fear
+2209,2210c2209,2210
+< 3879	Joy
+< 3641	Joy
+---
+> 3879	Anger
+> 3641	Sadness
+2238c2238
+< 4786	Sadness
+---
+> 4786	Neutral
+2253c2253
+< 7483	Anger
+---
+> 7483	Neutral
+2260c2260
+< 10209	Sadness
+---
+> 10209	Anger
+2267c2267
+< 7937	Fear
+---
+> 7937	Sadness
+2274c2274
+< 7521	Neutral
+---
+> 7521	Love
+2292c2292
+< 12727	Neutral
+---
+> 12727	Joy
+2314c2314
+< 7710	Joy
+---
+> 7710	Neutral
+2355c2355
+< 11991	Joy
+---
+> 11991	Love
+2384c2384
+< 6805	Sadness
+---
+> 6805	Anger
+2395c2395
+< 7272	Sadness
+---
+> 7272	Neutral
+2401c2401
+< 12820	Neutral
+---
+> 12820	Anger
+2412c2412
+< 10221	Neutral
+---
+> 10221	Sadness
+2418c2418
+< 9520	Neutral
+---
+> 9520	Sadness
+2471c2471
+< 9424	Neutral
+---
+> 9424	Joy
+2479c2479
+< 8992	Anger
+---
+> 8992	Fear
+2489c2489
+< 6843	Joy
+---
+> 6843	Love

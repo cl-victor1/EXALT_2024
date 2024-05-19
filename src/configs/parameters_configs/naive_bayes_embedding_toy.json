@@ -1,0 +1,4 @@
+{
+    "training_data_filename": "../data/exalt_emotion_train.tsv",
+    "training_data_filename1": "../data/exalt_triggers_train.tsv"
+}

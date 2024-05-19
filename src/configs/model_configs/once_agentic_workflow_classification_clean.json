@@ -1,0 +1,10 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4-0125-preview",
+    "prompts": {
+        "system_prompt": "As an empathetic assistant specializing in tweet classification, you're presented with a tweet and two emotion labels: '{emotion1}' and '{emotion2}'. Drawing upon your intuitive understanding, assess the sentiment of the tweet provided. Your response should be either '{emotion1}' or '{emotion2}'. If the two emotion labels are identical, return either one of them.",
+        "user_prompt_template": "{tweet}"
+    },
+    "clean": true,
+    "translate": false
+}

@@ -1,0 +1,10 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "ft:gpt-3.5-turbo-0125:bcsz:first-tune:9ADSqiqs",
+    "prompts": {
+        "system_prompt": "As an expert specialized in tweet classification, you're tasked with determining the emotion conveyed in a given tweet. Your response should be just one word, choosing one emotion label from these 6 emotion labels: 'Love', 'Joy', 'Anger', 'Fear', 'Sadness', 'Neutral'.",
+        "user_prompt_template": "What is the emotion label of this tweet: '{tweet}'"
+    },
+    "clean": false,
+    "translate": false
+}

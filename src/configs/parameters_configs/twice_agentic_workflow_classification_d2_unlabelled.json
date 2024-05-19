@@ -1,0 +1,4 @@
+{
+    "model_1_output": "../experiment/Emotion.tsv",
+    "model_2_output": "../outputs/D2/AgenticWorkflow/classification/once_agentic_workflow_both.tsv"
+}

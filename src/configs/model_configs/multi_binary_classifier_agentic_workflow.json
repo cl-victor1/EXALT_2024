@@ -1,0 +1,11 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4-turbo-2024-04-09",
+    "emotions": ["Love", "Joy", "Anger", "Fear", "Sadness"],
+    "prompts": {
+        "bc_system_prompt": "You are an expert in detecting '{emotion}' emotion in tweets. You will be presented with a tweet. Output 'yes' if you detect '{emotion}' emotion in the tweet; otherwise, output 'no'. Your reponse should only contain 'yes' or 'no'. No other output is allowed.",
+        "dc_system_prompt": "You are an expert in checking emotion in tweets. You will be presented with a tweet that others think is 'Neutral'. Output 'Neutral' if you agree with that; otherwise, output one emotion from {emotions} that describes the emotion of the tweet the best. In the latter case, your response should only contain one of {emotions} and no other output is allowed.",
+        "af_system_prompt": "You are an expert in choosing emotions for tweets. You will be presented with a tweet. Pick one emotion from {emotions} that describes the emotion of the tweet the best. Your response should only contain one of {emotions}. No other output is allowed",
+        "user_prompt_template": "{tweet}"
+    }
+}

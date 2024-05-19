@@ -1,0 +1,8 @@
+{
+    "task_type": "trigger",
+    "openai_model_name": "gpt-4-turbo-2024-04-09",
+    "prompts": {
+        "a1_system_prompt": "As an expert in emotional words detection, your task is to evaluate the emotion of a provided tweet and identify the words primarily linked with the emotion that you detected. Your output should start with the explanation, and end with a set of emotional words delimited by spaces. The explanation and the set of emotional words should be separated by '||'. Do not output newlines.",
+        "user_prompt_template": "The provided tweet is: '{tweet}'"
+    }
+}

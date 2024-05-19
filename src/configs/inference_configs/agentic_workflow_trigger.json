@@ -1,0 +1,5 @@
+{
+    "test_data_filename": "../data/exalt_test_participants/exalt_triggers_test_participants.tsv",
+    "output_filename": "../outputs/evaluation/BinaryTriggers/agentic_workflow_trigger.tsv",
+    "raw_filename": "../outputs/evaluation/BinaryTriggers/agentic_workflow_trigger_raw.tsv"
+}

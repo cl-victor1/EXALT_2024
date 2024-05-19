@@ -1,0 +1,7 @@
+{
+  "task_type": "classification",
+  "split_ratio": 0, 
+  "flat": false,
+  "weighting_type": "uniform"
+}
+

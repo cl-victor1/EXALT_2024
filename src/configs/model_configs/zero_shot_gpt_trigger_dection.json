@@ -1,0 +1,10 @@
+{
+    "task_type": "trigger_detection",
+    "openai_model_name": "gpt-4-0125-preview",
+    "num_shot": 0,
+    "prompts": {
+        "system_prompt": "You are a helpful assistant designed to output token classification results.",
+        "user_prompt_template": "Treat each space-separated text entity as a token. Punctuations and emojis could also be tokens. For exmpale, thre are 4 tokens in the following sentence 'I'm also happy .' A token is an emotion trigger token if it is used to express the emotion. For example, the token 'happy' is the emotion trigger token in the following sentence 'I'm also happy .' Use your instinct, what are the emotion trigger tokens of the following tweet: '{tweet_text}'. Please output the value in vector format, where 0 represnets not an emotion trigger token, 1 represents an emotion trigger token. The length of the vector should be exactly the same as that of the number of tokens in the tweet. For example, you should output [0, 0, 1, 0] for the following sentense 'I'm also happy .' Please do not output anything else other than the vector itself!",
+        "assistant_prompt_template": "{label}"
+    }
+}

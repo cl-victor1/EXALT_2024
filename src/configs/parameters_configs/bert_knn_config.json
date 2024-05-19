@@ -1,0 +1,14 @@
+{
+  "data": {
+    "data_path": "../data/exalt_test_participants/",
+    "test_data_filename":  "exalt_emotion_test_participants.tsv"
+  },
+  "testing": {
+    "model_path": "../data/Twitter-twhin-bert-base_epoch3.pt"
+  },
+  "knnTest": {
+    "test_batch_size": 16,
+    "model_file": "../data/knnpickle_file",
+    "k": 3
+  }
+}

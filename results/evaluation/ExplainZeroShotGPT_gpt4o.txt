@@ -1,0 +1,8 @@
+Emotion_Precision:0.5631
+Emotion_Recall:0.5953
+Emotion_F1:0.5726
+NumericalTriggers_MeanPearsonr:0.4548
+BinaryTriggers_TokenPrecision:0.4548
+BinaryTriggers_TokenRecall:0.6613
+BinaryTriggers_TokenF1:0.4778
+BinaryTriggers_MAP:0.3963

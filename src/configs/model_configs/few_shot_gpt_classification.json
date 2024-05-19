@@ -1,0 +1,12 @@
+{
+    "task_type": "classification",
+    "openai_model_name": "gpt-4-turbo-2024-04-09",
+    "anthropic_model_name": "claude-3-opus-20240229",
+    "num_shot": 6,
+    "random_sample": false,
+    "prompts": {
+        "system_prompt": "You are a helpful assistant designed to output classification results.",
+        "user_prompt_template": "Suppose there are six emotions: Love, Joy, Anger, Fear, Sadness, Neutral. Use your instinct, what is the emotion of the following tweet: '{tweet_text}'. Your response must be just one label from the six labels. Please do not output anything else.",
+        "assistant_prompt_template": "{label}"
+    }
+}

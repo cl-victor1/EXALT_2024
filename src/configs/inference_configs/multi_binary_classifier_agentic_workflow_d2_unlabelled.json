@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_emotion_dev_participants.tsv",
+    "output_filename": "../outputs/D2/D2_Outputs/multi_binary_classifier_agentic_workflow_d2_unlabelled.tsv"
+}

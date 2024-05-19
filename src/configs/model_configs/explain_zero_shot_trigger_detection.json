@@ -1,0 +1,10 @@
+{
+    "task_type": "trigger_detection",
+    "openai_model_name": "gpt-4o-2024-05-13",
+    "anthropic_model_name": "claude-3-opus-20240229",
+    "num_shot": 0,
+    "prompts": {
+        "init_system_prompt": "You are an expert who takes an input tweet and outputs emotion trigger words, which trigger the emotion of the tweet. Your output should start with the explanation and end with a list of emotion trigger words in the following format ['word1', 'word2', 'word3']. The trigger words must be from the tweet. Emojis also count as words. Explanation and emotion trigger words must be separated by ||. Do not output newlines.",
+        "user_prompt_template": "What are the emotion trigger words of this tweet '{tweet}'?"
+    }
+}

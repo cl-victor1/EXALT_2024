@@ -1,0 +1,4 @@
+{
+    "test_data_filename": "../data/exalt_test_participants/exalt_triggers_test_participants.tsv",
+    "output_filename": "../outputs/evaluation/BinaryTriggers/ExplainZeroShotGPT_gpt4o.tsv"
+}
